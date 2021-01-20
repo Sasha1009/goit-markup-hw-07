@@ -659,8 +659,7 @@ body {
 .card-link:hover,
 .card-link:focus {
     display: block;
-    width: 370px;
-    height: 404px;
+    
     outline: 3px solid black;
     background: #FFFFFF;
     box-sizing: border-box;
