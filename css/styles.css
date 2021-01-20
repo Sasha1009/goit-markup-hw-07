@@ -618,6 +618,7 @@ body {
 
 .cards-section {
     padding-top: 94px;
+    padding-bottom: 50px;
 }
 
 .card-description {
@@ -765,10 +766,10 @@ body {
 }
 
 .container-footer {
-    max-width: 1600px;
-    margin: 0 auto 0 auto;
+    width: 1200px;
+    margin: 0 auto;
     display: flex;
-    padding: 0 70px 0 70px;
+    align-items: baseline;
     padding-top: 60px;
     padding-bottom: 60px;
 }
